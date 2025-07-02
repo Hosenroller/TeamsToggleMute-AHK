@@ -8,3 +8,6 @@ An issue with the script is that as written it cannot easily differentiate betwe
 TODO
 - Add Camera toggle
 - Add Leave meeting
+
+---
+; Hotkey to toggle mute in Teams (F9 key)
